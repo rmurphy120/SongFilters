@@ -1,0 +1,1 @@
+This is a cumulative project from Programming 3 that took the other half of the semester. It is an app that allows you to filter through songs (As defined in songs.csv). Filters include year released, liveness, and loudness. We worked in pairs, so I was assigned the frontend.
